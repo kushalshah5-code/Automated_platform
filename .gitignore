@@ -1,0 +1,16 @@
+# Power BI cache
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Python (if used)
+__pycache__/
