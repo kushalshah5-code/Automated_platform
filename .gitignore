@@ -1,6 +1,9 @@
-# Power BI cache
+# Power BI
 *.tmp
 *.bak
+
+# VS Code
+.vscode/
 
 # Windows
 Thumbs.db
@@ -8,9 +11,3 @@ Desktop.ini
 
 # Logs
 *.log
-
-# VS Code
-.vscode/
-
-# Python (if used)
-__pycache__/
